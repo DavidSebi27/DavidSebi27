@@ -5,6 +5,7 @@ Currently cooking noodles at a ramen shop in Amsterdam by day, writing code by n
 🔭 Currently working on:
 - **Haarlem Festival** — full-stack web platform for a city-wide event
 - **Ramen Craft** — a gamified ramen-making app built with PHP & Vue.js 🍜
+
 🌐 Languages: Hungarian 🇭🇺 | English 🇬🇧 | 日本語 (JLPT N3) 🇯🇵
 ⚡ Fun fact: I got my job at a Japanese ramen restaurant by doing the entire interview in Japanese
 
