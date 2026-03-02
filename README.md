@@ -1,5 +1,6 @@
 # 💫 About Me:
 IT student at Inholland University of Applied Sciences 🇳🇱
+
 Currently cooking noodles at a ramen shop in Amsterdam by day, writing code by night.
 
 🔭 Currently working on:
