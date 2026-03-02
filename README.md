@@ -22,3 +22,6 @@ Currently cooking noodles at a ramen shop in Amsterdam by day, writing code by n
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DavidSebi27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/DavidSebi27/DavidSebi27/output/github-snake-dark.svg)
