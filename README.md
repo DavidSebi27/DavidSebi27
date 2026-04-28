@@ -4,8 +4,11 @@ IT student at Inholland University of Applied Sciences
 Currently cooking noodles at a ramen shop in Amsterdam by day, writing code by night.
 
 Currently working on:
-- **Haarlem Festival** — full-stack web platform for a city-wide event
-- **Ramen Craft** — a gamified ramen-making app built with PHP & Vue.js 
+- **Bankie** — a Java Spring Boot banking API (team project)
+
+Recently shipped:
+- RamenCraft — gamified ramen-making app built with PHP REST API, Vue.js & MySQL
+- Haarlem Festival — reservation and payment platform with Stripe integration
 
 Languages: Hungarian 🇭🇺 | English 🇬🇧 | 日本語 (JLPT N3) 🇯🇵
 
